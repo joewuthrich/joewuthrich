@@ -2,6 +2,8 @@
 
 I'm Joe, a computer science major from New Zealand who enjoys solving problems with code.
 
+I'm currently working on projects involving JavaScript, React Native, HTML, CSS, Node.js & MongoDB.
+
 My portfolio can be found [here](https://portfolio.joewuthrich.com).
 
 ```javascript
