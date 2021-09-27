@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Joe, a software developer from New Zealand interested in innovating new solutions using technology.
+
+I'm currently studying Computer Science and Information and Technology Management and plan to finish my degree in 2023.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joewuthrich)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **joewuthrich/joewuthrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
