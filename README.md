@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 🧑 I'm Joe, a software developer from New Zealand who loves to solve problems using software.
 
