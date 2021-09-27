@@ -1,4 +1,4 @@
-##Hi there,
+## Hi there,
 
 I'm Joe, a computer science major from New Zealand who enjoys solving problems with code.
 
