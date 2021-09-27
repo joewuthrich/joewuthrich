@@ -6,6 +6,15 @@
 
 📄 My portfolio can be found [here](https://portfolio.joewuthrich.com).
 
+```javascript
+me = {
+  name: "Joe",
+  age: "20",
+  status: "Studying Computer Science & IT Management",
+  portfolio: "https://portfolio.joewuthrich.com",
+}
+```
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joewuthrich)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
