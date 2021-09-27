@@ -1,3 +1,9 @@
+##Hi there,
+
+I'm Joe, a computer science major from New Zealand who enjoys solving problems with code.
+
+My portfolio can be found [here](https://portfolio.joewuthrich.com).
+
 ```javascript
 me = {
   name: "Joe",
