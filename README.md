@@ -1,11 +1,3 @@
-# Hi there 👋
-
-🧑 I'm Joe, a software developer from New Zealand who loves to solve problems using software.
-
-💻 I'm currently studying Computer Science and Information and Technology Management and plan to finish my degree in 2023.
-
-📄 My portfolio can be found [here](https://portfolio.joewuthrich.com).
-
 ```javascript
 me = {
   name: "Joe",
