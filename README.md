@@ -7,7 +7,7 @@ I'm currently working on projects involving JavaScript, React Native, HTML, CSS,
 My portfolio can be found [here](https://portfolio.joewuthrich.com).
 
 ```javascript
-me = {
+let me = {
   name: "Joe",
   age: "20",
   status: "Studying Computer Science & IT Management",
