@@ -9,7 +9,7 @@ My portfolio can be found [here](https://portfolio.joewuthrich.com).
 ```javascript
 let me = {
   name: "Joe",
-  age: "20",
+  age: "22",
   status: "Studying Computer Science & IT Management",
   portfolio: "https://portfolio.joewuthrich.com",
 }
