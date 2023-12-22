@@ -2,7 +2,7 @@
 
 I'm Joe, a computer science major from New Zealand who enjoys solving problems with code.
 
-I'm currently working on projects involving JavaScript, React Native, HTML, CSS, Node.js & MongoDB.
+I'm currently working on projects involving JavaScript, TypeScript, React Native, HTML, CSS, Node.js & MongoDB.
 
 My portfolio can be found [here](https://portfolio.joewuthrich.com).
 
@@ -10,7 +10,8 @@ My portfolio can be found [here](https://portfolio.joewuthrich.com).
 let me = {
   name: "Joe",
   age: "22",
-  status: "Studying Computer Science & IT Management",
+  status: "Graduating from University (BSc in Computer Science & IT Management)",
+  technologies: ["JavaScript", "TypeScript", "React Native", "HTML", "CSS", "Node.js", "MongoDB", "SQL"],
   portfolio: "https://portfolio.joewuthrich.com",
 }
 ```
