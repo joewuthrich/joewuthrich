@@ -10,7 +10,7 @@ My portfolio can be found [here](https://portfolio.joewuthrich.com).
 let me = {
   name: "Joe",
   age: "22",
-  status: "Graduating from University (BSc in Computer Science & IT Management)",
+  status: "Juinor Full Stack Developer",
   technologies: ["JavaScript", "TypeScript", "React Native", "HTML", "CSS", "Node.js", "MongoDB", "SQL"],
   portfolio: "https://portfolio.joewuthrich.com",
 }
