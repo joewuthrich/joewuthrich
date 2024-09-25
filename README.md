@@ -9,9 +9,9 @@ My portfolio can be found [here](https://portfolio.joewuthrich.com).
 ```javascript
 let me = {
   name: "Joe",
-  age: "22",
-  status: "Juinor Full Stack Developer",
-  technologies: ["JavaScript", "TypeScript", "React Native", "HTML", "CSS", "Node.js", "MongoDB", "SQL"],
+  age: "23",
+  status: "Full Stack Developer",
+  technologies: ["JavaScript", "TypeScript", "React Native", "HTML", "CSS", "Node", "MongoDB", "SQL", "React"],
   portfolio: "https://portfolio.joewuthrich.com",
 }
 ```
