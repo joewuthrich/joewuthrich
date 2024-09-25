@@ -4,7 +4,7 @@ I'm Joe, a computer science major from New Zealand who enjoys solving problems w
 
 I'm currently working on projects involving JavaScript, TypeScript, React Native, HTML, CSS, Node.js & MongoDB.
 
-My portfolio can be found [here](https://portfolio.joewuthrich.com).
+My portfolio can be found [here](https://joewuthri.ch).
 
 ```javascript
 let me = {
@@ -12,7 +12,7 @@ let me = {
   age: "23",
   status: "Full Stack Developer",
   technologies: ["JavaScript", "TypeScript", "React Native", "HTML", "CSS", "Node", "MongoDB", "SQL", "React"],
-  portfolio: "https://portfolio.joewuthrich.com",
+  portfolio: "https://joewuthri.ch",
 }
 ```
 
