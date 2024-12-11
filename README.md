@@ -7,7 +7,7 @@ I'm currently working on projects involving TypeScript, React, Svelte, Node.js &
 My portfolio can be found [here](https://joewuthri.ch).
 
 ```javascript
-let me = {
+const me = {
   name: "Joe",
   age: "23",
   status: "Full Stack Developer",
