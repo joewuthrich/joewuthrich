@@ -1,8 +1,8 @@
 ## Hi there,
 
-I'm Joe, a computer science major from New Zealand who enjoys solving problems with code.
+I'm Joe, a Full Stack Developer from New Zealand who enjoys solving problems with code.
 
-I'm currently working on projects involving JavaScript, TypeScript, React Native, HTML, CSS, Node.js & MongoDB.
+I'm currently working on projects involving TypeScript, React, Svelte, Node.js & PostgreSQL.
 
 My portfolio can be found [here](https://joewuthri.ch).
 
@@ -11,7 +11,7 @@ let me = {
   name: "Joe",
   age: "23",
   status: "Full Stack Developer",
-  technologies: ["JavaScript", "TypeScript", "React Native", "HTML", "CSS", "Node", "MongoDB", "SQL", "React"],
+  technologies: ["JavaScript", "TypeScript", "React Native", "HTML", "CSS", "Node", "SQL", "MongoDB", "SQL", "React", "Svelte"],
   portfolio: "https://joewuthri.ch",
 }
 ```
